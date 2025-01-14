@@ -27,3 +27,8 @@ Tabel Siswa
 |2|Elok|11|
 |3|Fadhil|11|
 
+Tabel Siswa PKL
+|No|Nama|Kelas|Jurusan|Ruang|
+|-|-|-|-|-|
+|1|Sella ayunia|11|Pplg|02|
+|2|Elok nuraini|11|Pplg|02|

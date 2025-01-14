@@ -1,66 +1,73 @@
-site_name: panduan aplikasi manajemen pegawai
+site_name: Panduan Aplikasi Manajemen Pegawai
+# site_url: https://mydomain.org/mysite
 theme:
   name: material
   palette:
 
-   # Palette toggle for light mode
-        - scheme: default
-          primary: grey
-          accent: grey
-          toggle:
-            icon: material//lightbulb 
-            name: Switch to dark mode
+    # Palette toggle for light mode
+    - scheme: default
+      primary: grey
+      accent: grey
+      toggle:
+        icon: material/lightbulb
+        name: Switch to dark mode
 
-        # Palette toggle for dark mode
-        - scheme: slate
-          primary: grey
-          accent: grey
-          toggle:
-            icon: material//lightbulb-outline
-            name: Switch to light mode     
-
-#mengatur font
+    # Palette toggle for dark mode
+    - scheme: slate
+      primary: grey
+      accent: grey
+      toggle:
+        icon: material/lightbulb-outline
+        name: Switch to light mode
+  
+  # Mengatur font
   font:
     text: Open Sans
     code: JetBrains Mono
 
-#Icon
-  logo: images/book.png
+  # icon:
+    # logo: material/book
   favicon: images/book.png
+  logo: images/book.png
 
   icon:
     admonition:
       note: fontawesome/solid/note-sticky
-      abstrack: fontawesome/solid/book
+      abstract: fontawesome/solid/book
       info: fontawesome/solid/circle-info
       tip: fontawesome/solid/bullhorn
       success: fontawesome/solid/check
       question: fontawesome/solid/circle-question
-      warning: fontawesome/solid/triagle-exclamation
+      warning: fontawesome/solid/triangle-exclamation
       failure: fontawesome/solid/bomb
       danger: fontawesome/solid/skull
       bug: fontawesome/solid/robot
-      example: fontawesome/solid/flaks
+      example: fontawesome/solid/flask
       quote: fontawesome/solid/quote-left
 
   features:
     # - navigation.footer
     # - navigation.tabs
-
-  markdown-ekstensions:
-    - admonition
-    - pymdownx.details
-    - pymdownx.superfences
-    # Fitur
-    - attr-list
-    # Keyboard
-    - pymdownx.keys
+  
 
 plugins:
-  - search 
-      
-#footer
-copyright: Made with by Sella,Elok | &copy; 2025
+  - search
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  # Fitur
+  - attr_list
+  # Keyboard
+  - pymdownx.keys
+
+
+# Footer
+copyright: Made with ❤️ by SellaElok | &copy; 2025
 
 extra:
   generator: false
+  social:
+  - icon: fontawesome/brands/github
+    link: https://github.com/elok27/panduan-apg
