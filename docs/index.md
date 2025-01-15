@@ -1,6 +1,6 @@
 # Selamat Datang
 
-## Di Panduan Aplikasi Manajemen Pegawai
+## Di Panduan Aplikasi TRACER STUDY SISWA
 
 <img src="images/image.png" width="40%">
 

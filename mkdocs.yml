@@ -1,4 +1,4 @@
-site_name: Panduan Aplikasi Manajemen Pegawai
+site_name: TRACER STUDY SISWA
 # site_url: https://mydomain.org/mysite
 theme:
   name: material
@@ -61,10 +61,9 @@ markdown_extensions:
   - attr_list
   # Keyboard
   - pymdownx.keys
-
-
 # Footer
-copyright: Made with ❤️ by SellaElok | &copy; 2025
+copyright: Made with ❤️ by KEL4 | &copy; 2025
+
 
 extra:
   generator: false

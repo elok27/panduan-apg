@@ -1,5 +1,5 @@
 # panduan-apg
- panduan penggunaan aplikasi menejemn pegawai
+ panduan penggunaan aplikasi Tracer Study Siswa
  # ini H1
  ## ini H2
  ### ini H3
@@ -31,4 +31,5 @@ Tabel Siswa PKL
 |No|Nama|Kelas|Jurusan|Ruang|
 |-|-|-|-|-|
 |1|Sella ayunia|11|Pplg|02|
+|2|Elok nuraini|11|Pplg|02|
 |2|Elok nuraini|11|Pplg|02|
