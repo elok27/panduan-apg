@@ -1,7 +1,7 @@
 # Selamat Datang
 
-## Di Panduan Aplikasi Manajemen Pegawai
+## **Di Panduan Aplikasi Tracer Study Siswa**
 
-<img src="images/image.png" width="40%">
+<img src="images/study.png" width="40%">
 
 [Memulai](01.md){ .md-button .md-button--primary }

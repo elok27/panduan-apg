@@ -1,4 +1,4 @@
-site_name: Panduan Aplikasi Manajemen Pegawai
+site_name: Panduan Aplikasi Tracer Study
 # site_url: https://mydomain.org/mysite
 theme:
   name: material
@@ -27,8 +27,8 @@ theme:
 
   # icon:
     # logo: material/book
-  favicon: images/book.png
-  logo: images/book.png
+  favicon: images/study.png
+  logo: images/study.png
 
   icon:
     admonition:
@@ -64,7 +64,7 @@ markdown_extensions:
 
 
 # Footer
-copyright: Made with ❤️ by SellaElok | &copy; 2025
+copyright: Made with ❤️ by Traceri4 | &copy; 2025
 
 extra:
   generator: false
