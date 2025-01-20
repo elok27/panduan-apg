@@ -3,7 +3,6 @@ site_name: Panduan Aplikasi Tracer Study
 theme:
   name: material
   palette:
-
     # Palette toggle for light mode
     - scheme: default
       primary: grey
@@ -61,10 +60,11 @@ markdown_extensions:
   - attr_list
   # Keyboard
   - pymdownx.keys
-
-
 # Footer
-copyright: Made with ❤️ by Traceri4 | &copy; 2025
+
+copyright: Made with ❤️ by KEL4 | &copy; 2025
+
+
 
 extra:
   generator: false
